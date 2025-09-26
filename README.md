@@ -27,8 +27,8 @@ Now, **Project Fong** is where I bring that discipline into the open - showcasin
 ---
 
 ## 🔹 Featured Projects (Public Demos)
-- **[ai-stack-demo](https://github.com/projectfong/ai-stack-demo)** → stripped-down modular AI stack  
-- **[rag-engine-lite](https://github.com/projectfong/rag-engine-lite)** → simplified retrieval/search engine  
+- **[ai-stack-demo](https://github.com/projectfong/ai-stack-demo)** → stripped-down modular AI stack - **coming soon**  
+- **[rag-engine-lite](https://github.com/projectfong/rag-engine-lite)** → simplified retrieval/search engine - **coming soon** 
 - **[cfo-chatbotui](https://github.com/projectfong/cfo-chatbotui-demo)** → finished demo chatbot (React/TypeScript + FastAPI)  
 
 ---
