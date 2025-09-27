@@ -39,6 +39,7 @@ Now, **Project Fong** is where I bring that discipline into the open - showcasin
 Screenshot from local private Gitea repo (sensitive details redacted):
 
 * **Gitea Starred Repositories**
+
   ![Gitea](docs/gitea-local.png)
 
 ---
