@@ -44,6 +44,18 @@ Screenshot from local private Gitea repo (sensitive details redacted):
 
 ---
 
+## 🔹 Keywords / Related Search
+
+* LLM inference engine, local AI infrastructure  
+* RAG pipelines, retrieval-augmented generation  
+* embedding management, multi-agent coordination  
+* GPU scheduling, llama.cpp, GGUF  
+* compliance, policy, prompt governance  
+* containerized orchestration, observability hooks  
+* React, TypeScript, FastAPI frontend, on-prem deployments
+
+---
+
 ## 🔹 Notes
 `projectfong` is about **reinvention** — bringing forward the work that was once hidden behind the scenes.  
 What you see here are **representations** of larger projects, shared selectively for visibility.  
