@@ -34,6 +34,15 @@ Now, **Project Fong** is where I bring that discipline into the open - showcasin
 
 ---
 
+## 🔹 Private Gitea Screenshot
+
+Screenshot from local private Gitea repo (sensitive details redacted):
+
+* **Gitea Starred Repositories**
+  ![Gitea](docs/gitea-local.png)
+
+---
+
 ## 🔹 Notes
 `projectfong` is about **reinvention** — bringing forward the work that was once hidden behind the scenes.  
 What you see here are **representations** of larger projects, shared selectively for visibility.  
