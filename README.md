@@ -42,6 +42,25 @@ Screenshot from local private Gitea repo (sensitive details redacted):
 
   ![Gitea](docs/gitea-local.png)
 
+>Identifiers redacted; screenshot included to illustrate internal repository organization and version-control discipline.
+
+---
+
+## Lab Environment
+
+All AI runtime and orchestration projects are developed and validated on self-hosted hardware.
+
+| Role | Hardware | GPUs | Purpose |
+|------|-----------|------|----------|
+| **Compute Node A** | Intel i9-9400F, 32 GiB RAM | 2 × RTX 3070 (8 GiB) | codeproject.ai / embed server |
+| **Compute Node B** | AMD Ryzen 7 3700X, 32 GiB RAM | 2 × RTX 3060 (12 GiB) | Primary inference / model-serving node | 
+| **Virtualization Host** | Dell PowerEdge R730, 2 × Xeon E5-2690 v4, 384 GiB RAM | None | Proxmox VE 9.0.6 – VM orchestration, CI/CD, log aggregation |
+| **Storage / Network** | SAS RAID (≈ 22 TB usable), OPNsense | None | VM disks, ZFS pools, datasets, and segmented networking |
+| **Backup** | QNAP NAS – 9 TB NFS | None | Proxmox Backup Server for dedicated VM backup |
+
+*All systems are personally owned and maintained for research and R&D use.  
+No customer or sensitive data is processed.*
+
 ---
 
 ## 🔹 Keywords / Related Search
@@ -58,6 +77,9 @@ Screenshot from local private Gitea repo (sensitive details redacted):
 
 ## 🔹 Notes
 `projectfong` is about **reinvention** — bringing forward the work that was once hidden behind the scenes.  
+
 What you see here are **representations** of larger projects, shared selectively for visibility.  
+
+This GitHub serves as a technical portfolio illustrating architecture, discipline, and experimentation across AI systems and secure infrastructure.
 
 ---
