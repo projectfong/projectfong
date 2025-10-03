@@ -69,9 +69,10 @@ No customer or sensitive data is processed.*
 * RAG pipelines, retrieval-augmented generation  
 * embedding management, multi-agent coordination  
 * GPU scheduling, llama.cpp, GGUF  
-* compliance, policy, prompt governance  
-* containerized orchestration, observability hooks  
-* React, TypeScript, FastAPI frontend, on-prem deployments
+* compliance, CMMC, policy, prompt governance  
+* containerized orchestration, observability hooks
+* Qdrant, FAISS, Postgres, vector search
+* React, TypeScript, FastAPI frontend, Python, on-prem deployments
 
 ---
 
