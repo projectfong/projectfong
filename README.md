@@ -52,11 +52,11 @@ All AI runtime and orchestration projects are developed and validated on self-ho
 
 | Role | Hardware | GPUs | Purpose |
 |------|-----------|------|----------|
-| **Compute Node A** | Intel i9-9400F, 32 GiB RAM | 2 × RTX 3070 (8 GiB) | codeproject.ai / embed server |
-| **Compute Node B** | AMD Ryzen 7 3700X, 32 GiB RAM | 2 × RTX 3060 (12 GiB) | Primary inference / model-serving node | 
+| **Compute Node A** | Intel i9-9400F, 32 GiB RAM, SSD, NVMe | 2 × RTX 3070 (8 GiB) | Docker, codeproject.ai / embed server |
+| **Compute Node B** | AMD Ryzen 7 3700X, 32 GiB RAM, SSD, NVMe | 2 × RTX 3060 (12 GiB) | Docker, Primary inference / model-serving node | 
 | **Virtualization Host** | Dell PowerEdge R730, 2 × Xeon E5-2690 v4, 384 GiB RAM, Oracle F320 NVMe, Dual 1100w PSU | None | Proxmox VE 9.0.6 – VM orchestration, CI/CD, log aggregation |
 | **Storage / Network** | SAS RAID (≈ 22 TB usable), OPNsense | None | VM disks, ZFS pools, datasets, and segmented networking |
-| **Backup** | QNAP NAS – 9 TB NFS | None | Proxmox Backup Server for dedicated VM backup |
+| **Backup** | QNAP NAS – 9 TB NFS (Ironwolf + dual RED SA500 mirror cache) | None | Proxmox Backup Server for dedicated VM backup |
 
 *All systems are personally owned and maintained for research and R&D use.  
 No customer or sensitive data is processed.*
