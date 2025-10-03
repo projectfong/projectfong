@@ -30,6 +30,7 @@ Now, **Project Fong** is where I bring that discipline into the open - showcasin
 - **[cfo-aistack-demo](https://github.com/projectfong/cfo-aistack-demo)** → stripped-down modular AI stack (architecture blueprint; full implementation private, README-only)  
 - **[cfo-router-demo](https://github.com/projectfong/cfo-router-demo)** → demo router that acts as the *brain* between users and local AI systems — handles routing, model selection, and policy-based decisions (public-safe echo version)
 - **[cfo-vessel-demo](https://github.com/projectfong/cfo-vessel-demo)** → demo LLM engine (Vessel) — exposes a safe inference API with canned responses; full runtime and GPU logic private
+- **[cfo-embed-demo](https://github.com/projectfong/cfo-embed-demo)** → demo embedding encoder, vectorizer
 - **[cfo-chatbotui-demo](https://github.com/projectfong/cfo-chatbotui-demo)** → finished demo chatbot (React/TypeScript + FastAPI)  
 
 ---
