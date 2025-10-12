@@ -9,7 +9,7 @@ Now, **Project Fong** is where I bring that discipline into the open - showcasin
 
 ## 🔹 About This Space
 - GitHub here is used **only for demos and showcases**.  
-- Most repositories are **stripped-down** or **partial releases**.  
+- Most repositories are **stripped-down** or **partial releases**, while select projects may include **full working versions**.  
 - Full projects and production implementations are maintained in a private environment.
 
 > ⚠️ **Disclaimer**  
