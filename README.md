@@ -31,6 +31,7 @@ Now, **Project Fong** is where I bring that discipline into the open - showcasin
 - **[cfo-router-demo](https://github.com/projectfong/cfo-router-demo)** → demo router that acts as the *brain* between users and local AI systems — handles routing, model selection, and policy-based decisions (public-safe echo version)
 - **[cfo-vessel-demo](https://github.com/projectfong/cfo-vessel-demo)** → demo LLM engine (Vessel) — exposes a safe inference API with canned responses; full runtime and GPU logic private
 - **[cfo-embed-demo](https://github.com/projectfong/cfo-embed-demo)** → demo embedding encoder, vectorizer
+- **[cfo-ai-security-demo](https://github.com/projectfong/cfo-ai-security-demo)**  → offline AI security workflow demonstration that simulates firewall log ingestion, summarization, and embedding via cfo-aistack (cfo-vessel + cfo-embed) — produces deterministic JSON evidence for audit and validation
 - **[cfo-chatbotui-demo](https://github.com/projectfong/cfo-chatbotui-demo)** → finished demo chatbot (React/TypeScript + FastAPI)
 - **[vectorforge](https://github.com/projectfong/vectorforge)** → modular vector database toolkit; focuses on embedding analysis, RAG testing, and vector optimization pipelines  
 - **[validns](https://github.com/projectfong/validns)** → domain/DNS validation utility built for compliance and network integrity checks  
