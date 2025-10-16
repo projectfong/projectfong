@@ -20,7 +20,7 @@ Now, **Project Fong** is where I bring that discipline into the open - showcasin
 
 ## 🔹 Focus Areas
 - **AI Systems Architecture**: orchestration, embeddings, retrieval, multi-agent control  
-- **Compliance & Security**: CMMC Level 2/NIST 800-171, ITAR/DFARS, validation utilities  
+- **Compliance & Security**: designed for regulated and security-sensitive environments, implementing controls consistent with NIST and federal cybersecurity best practices, secure design and validation utilities  
 - **Infrastructure & Automation**: hybrid networks, firewalls, virtualization, Terraform/Ansible, Docker orchestration  
 - **Full-Stack Prototyping**: FastAPI, React/TypeScript, containerized deployments, RESTful and async service design  
 
@@ -73,7 +73,7 @@ No customer or sensitive data is processed.*
 * RAG pipelines, retrieval-augmented generation, vector retrieval APIs  
 * embedding management, vector optimization, multi-agent coordination  
 * GPU scheduling, llama.cpp, GGUF  
-* compliance, CMMC, policy, prompt governance  
+* compliance, cybersecurity frameworks, secure design, auditability, policy enforcement, prompt governance  
 * containerized orchestration, audit logging, observability hooks
 * Qdrant, FAISS, Postgres, vector search, collection analysis
 * React, TypeScript, FastAPI frontend, Python, on-prem deployments or hybrid deployments
