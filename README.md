@@ -38,7 +38,7 @@ Now, **Project Fong** is where I bring that discipline into the open - showcasin
 
 ---
 
-## 🔹 Private Gitea Screenshot
+## 🔹 Personal and Private Gitea Screenshot
 
 Screenshot from local private Gitea repo (sensitive details redacted):
 
