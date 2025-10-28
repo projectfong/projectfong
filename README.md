@@ -81,7 +81,7 @@ No customer or sensitive data is processed.*
 * RAG pipelines, retrieval-augmented generation, vector retrieval APIs  
 * embedding management, vector optimization, multi-agent coordination  
 * GPU scheduling, llama.cpp, GGUF  
-* compliance, cybersecurity frameworks, secure design, auditability, policy enforcement, prompt governance  
+* compliance, cybersecurity frameworks, secure design, auditability, policy enforcement, prompt governance, AI Governance  
 * containerized orchestration, audit logging, observability hooks
 * Qdrant, FAISS, Postgres, vector search, collection analysis
 * React, TypeScript, FastAPI frontend, Python, on-prem deployments or hybrid deployments
