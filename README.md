@@ -19,7 +19,7 @@ Now, **Project Fong** is where I bring that discipline into the open - showcasin
 ---
 ## 🔹 Governance and Framework
 
-All repositories and documentation published here operate under the [Project Fong AI Governance Framework](https://github.com/projectfong/projectfong-ai-governance) - a set of internal policies and engineering controls designed to ensure reproducibility, auditability, and responsible use of AI systems.
+All repositories and documentation published here operate under the [Project Fong AI Governance Framework](https://github.com/projectfong/projectfong-ai-governance/blob/5941f213d9f44939dad189f0afc20d545dc343fd/docs/AI_GOVERNANCE_FRAMEWORK_PUBLIC.md) - a set of internal policies and engineering controls designed to ensure reproducibility, auditability, and responsible use of AI systems.
 
 The public materials reflect selected portions of that framework for demonstration purposes only. Full operational enforcement, validation logic, and compliance automation remain private.
 
